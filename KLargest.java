@@ -64,11 +64,11 @@ public class KLargest {
 		
 		if (choice == 1) {
 			System.out.println("Choice: " + choice + 
-					": K Largest using quick select");	
+					": K Largest using Select");	
 		}
 		else {
 			System.out.println("Choice: " + choice + 
-					": K Largest using min-heap");
+					": K Largest using Min-Heap");
 		}
 		System.out.println(timer);
 	}

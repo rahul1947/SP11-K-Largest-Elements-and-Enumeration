@@ -1,5 +1,5 @@
 n: 1000000
-Choice: 1: K Largest using Quick Select
+Choice: 1: K Largest using Select
 Time: 27 msec.
 Memory: 5 MB / 117 MB.
 n: 1000000
@@ -8,7 +8,7 @@ Time: 252 msec.
 Memory: 125 MB / 208 MB.
 
 n: 2000000
-Choice: 1: K Largest using Quick Select
+Choice: 1: K Largest using Select
 Time: 69 msec.
 Memory: 8 MB / 117 MB.
 n: 2000000
@@ -17,7 +17,7 @@ Time: 616 msec.
 Memory: 197 MB / 348 MB.
 
 n: 4000000
-Choice: 1: K Largest using Quick Select
+Choice: 1: K Largest using Select
 Time: 207 msec.
 Memory: 16 MB / 117 MB.
 n: 4000000
@@ -26,7 +26,7 @@ Time: 1549 msec.
 Memory: 265 MB / 340 MB.
 
 n: 8000000
-Choice: 1: K Largest using Quick Select
+Choice: 1: K Largest using Select
 Time: 521 msec.
 Memory: 31 MB / 117 MB.
 n: 8000000
@@ -35,7 +35,7 @@ Time: 3690 msec.
 Memory: 296 MB / 561 MB.
 
 n: 16000000
-Choice: 1: K Largest using Quick Select
+Choice: 1: K Largest using Select
 Time: 1170 msec.
 Memory: 81 MB / 1963 MB.
 n: 16000000
@@ -44,7 +44,7 @@ Time: 8344 msec.
 Memory: 1144 MB / 1820 MB.
 
 n: 32000000
-Choice: 1: K Largest using Quick Select
+Choice: 1: K Largest using Select
 Time: 2568 msec.
 Memory: 142 MB / 1963 MB.
 n: 32000000
@@ -53,7 +53,7 @@ Time: 21371 msec.
 Memory: 713 MB / 1820 MB.
 
 n: 64000000
-Choice: 1: K Largest using Quick Select
+Choice: 1: K Largest using Select
 Time: 5604 msec.
 Memory: 274 MB / 2944 MB.
 n: 64000000
@@ -62,7 +62,7 @@ Time: 55206 msec.
 Memory: 1023 MB / 2731 MB.
 
 n: 128000000
-Choice: 1: K Largest using Quick Select
+Choice: 1: K Largest using Select
 Time: 11304 msec.
 Memory: 519 MB / 2944 MB.
 n: 128000000
@@ -71,7 +71,7 @@ Time: 206062 msec.
 Memory: 1927 MB / 2731 MB.
 
 n: 256000000
-Choice: 1: K Largest using Quick Select
+Choice: 1: K Largest using Select
 Time: 28174 msec.
 Memory: 1017 MB / 3925 MB.
 n: 256000000
