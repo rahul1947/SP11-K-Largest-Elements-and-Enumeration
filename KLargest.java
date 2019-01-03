@@ -1,21 +1,22 @@
 package rsn170330.sp11;
 
-/**
- * CS 5V81.001: Implementation of Data Structures and Algorithms 
- * Short Project SP11: K Largest Elements Implementation
- * Team: SP11 33
- * @author Rahul Nalawade (rsn170330)
- * @author Pooja Srinivasan (pxs176230)
- */
-
-import java.util.Arrays;
 import java.util.PriorityQueue;
 import java.util.Random;
 
-public class SP11 {
+/**
+ * CS 5V81.001: Implementation of Data Structures and Algorithms 
+ * Short Project SP11: Select Algorithm for K Largest Elements
+ * Team: SP11 33
+ * @author Rahul Nalawade (rsn170330)
+ * @author Pooja Srinivasan (pxs176230) 
+ * 
+ * Date: Nov 18, 2018
+ */
+public class KLargest {
 	public static Random random = new Random();
 	
-	public static int numTrials = 100;
+	// larger the numTrials, better the average. But, 
+	public static int numTrials = 3; // longer the run, and more the memory 
 	public final static int T = 75;
 	
 	// ------------------------------- MAIN ----------------------------------
