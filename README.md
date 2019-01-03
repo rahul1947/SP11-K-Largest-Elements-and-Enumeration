@@ -23,11 +23,12 @@ _______________________________________________________________________________
    queues that we designed for the same problem on streams.
    Use k = n/2 (median), and try large values of n: 16M, 32M, 64M, 128M, 256M.
 
-**Solution:** [KLargest.java](https://github.com/rahul1947/SP11-Select-Algorithm-for-K-Largest-Elements/blob/master/KLargest.java)   
+**Solution:** [KLargest.java](https://github.com/rahul1947/SP11-Select-Algorithm-for-K-Largest-Elements/blob/master/KLargest.java) 
+
 
 |      n       |          Select Algorithm         |           Priority Queue          | 
 |              |:---------------------------------:|:---------------------------------:| 
-|              | Time (mSec) | Memory (used/avail) | Time (mSec) | Memory (used/avail) |
+|              | Time (mSec) | Memory (used/avail) | Time (mSec) | Memory (used/avail) | 
 |-------------:|------------:|--------------------:|------------:|--------------------:| 
 |   1 000 000  |          27 |          5 / 117 MB |         252 |        125 / 208 MB | 
 |   2 000 000  |          69 |          8 / 117 MB |         616 |        197 / 348 MB | 
