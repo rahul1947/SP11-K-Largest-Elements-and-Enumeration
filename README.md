@@ -29,11 +29,9 @@ NOTE:
 - For n = 256M and Min-Heap Algorithm, numTrials had to be reduced to 3. 
   Else rest of the files could run for numTrial = 10 or more.
 
-- Please see the results for n = 1M - 256M comparing two algorithms -
+- Please see the results [sp11-script-results.txt](https://github.com/rahul1947/SP11-Select-Algorithm-for-K-Largest-Elements/blob/master/sp11-script-results.txt) for n = 1M - 256M comparing two algorithms -
   1. K Largest using **Select Algorithm with RT: O(n) amortized**
   2. K Largest using **Min-Heap with RT: O(n Log k)**
-
-in the file sp11-script-results.txt
 
 - Increasing numTrials, the result could be improvised but it would take more
   resources as Time and Memory. 
