@@ -26,7 +26,7 @@ _______________________________________________________________________________
 **Solution:** [KLargest.java](https://github.com/rahul1947/SP11-Select-Algorithm-for-K-Largest-Elements/blob/master/KLargest.java) 
 
 
-|  Algorithms  |        O(n) |    Select Algorithm |  O(nlog(k)) |      Priority Queue | 
+|  Algorithms  |  O(n) amort |    Select Algorithm |  O(n logk) |      Priority Queue | 
 |-------------:|------------:|--------------------:|------------:|--------------------:| 
 |      n       | Time (mSec) | Memory (used/avail) | Time (mSec) | Memory (used/avail) | 
 |      1000000 |          27 |          5 / 117 MB |         252 |        125 / 208 MB | 
