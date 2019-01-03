@@ -15,7 +15,7 @@
 _______________________________________________________________________________
 ## Problems:
 
-#### Team Task - Divide and Conquer: 
+### Team Task - Divide and Conquer: 
 
 **Problem 1.** 
    Implement the expected O(n) algorithm for the k largest elements (select) 
@@ -49,13 +49,13 @@ NOTE:
 - Existing Processor: **Intel® Core™ i5-8250U CPU @ 1.60GHz × 8**. 
   Memory: **7.5 GiB**
    
-#### Optional Task (individual) - Enumeration: 
+### Optional Task (individual) - Enumeration: 
 
 **Problem 2.** 
    Implement the following methods in Enumerate.java:
    
-   combine(): count/enumerate combinations.
-   heap(): Heap's algorithm for permutations.  
+   - combine(): count/enumerate combinations.
+   - heap(): Heap's algorithm for permutations.  
 
 **Solution:** [Enumerate.java](https://github.com/rahul1947/SP11-Select-Algorithm-for-K-Largest-Elements/blob/master/Enumerate.java)
 
