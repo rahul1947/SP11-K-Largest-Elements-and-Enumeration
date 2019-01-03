@@ -23,12 +23,20 @@ _______________________________________________________________________________
    queues that we designed for the same problem on streams.
    Use k = n/2 (median), and try large values of n: 16M, 32M, 64M, 128M, 256M.
 
-**Solution:** [KLargest.java]()   
+**Solution:** [KLargest.java](https://github.com/rahul1947/SP11-Select-Algorithm-for-K-Largest-Elements/blob/master/KLargest.java)   
 Please see the results for n = 1M - 256M comparing two algorithms -
 1. K Largest using Select Algorithm with RT: O(n) amortized
 2. K Largest using Min-Heap with RT: O(n Log k)
 
 in the file sp11-script-results.txt
+
+NOTE: 
+- For n = 256M and Min-Heap Algorithm, numTrials had to be reduced to 3. 
+  Else rest of the files could run for numTrial = 10 or more.
+- Increasing numTrials, the result could be improvised but it would take more
+  resources as Time and Memory. 
+- Existing Processor: Intel® Core™ i5-8250U CPU @ 1.60GHz × 8. 
+  Memory: 7.5 GiB
    
 #### Optional Task (individual) - Enumeration: 
 
