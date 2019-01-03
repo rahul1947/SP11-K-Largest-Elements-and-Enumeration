@@ -41,7 +41,7 @@ public class KLargest {
 		}
 		Timer timer = new Timer();
 		switch (choice) {
-		// K largest using Quick Select Algorithm
+		// K largest using Select Algorithm
 		case 1:
 			for (int i = 0; i < numTrials; i++) {
 				Shuffle.shuffle(arr);
@@ -73,7 +73,7 @@ public class KLargest {
 		System.out.println(timer);
 	}
 	
-	// --------------------------- Quick Select ------------------------------
+	// ------------------------- Select Algorithm ----------------------------
 	/**
 	 * Rearranges k largest elements in an array to the last.
 	 * @param arr the input array
