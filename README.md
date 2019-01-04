@@ -1,4 +1,4 @@
-# Short Project SP11: Select Algorithm for K Largest Elements
+## Short Project SP11: K Largest Elements and Enumeration 
 
 1. Implementation of O(n) Select Algorithm to find K largest elements and 
    compare it's performance with an Algorithm to find K largest elements using 
@@ -6,16 +6,16 @@
 2. Implementation of Enumeration algorithms - permutations(), combinations(), 
    heap(), and Knuth's Algorithm L.
 
-### Author
+#### Author
 * [Rahul Nalawade](https://github.com/rahul1947)
 
-### Date
-* Nov 8-18, 2018
+#### Date
+* Nov 18, 2018
 
 _______________________________________________________________________________
-## Problems:
+### Problems:
 
-### Team Task - Divide and Conquer: 
+#### A. Team Task - Kth Largest Algorithms: 
 
 **Problem 1.** 
    Implement the expected O(n) algorithm for the k largest elements (select) 
@@ -49,7 +49,7 @@ NOTE:
 - Existing Processor: **Intel® Core™ i5-8250U CPU @ 1.60GHz × 8**. 
   Memory: **7.5 GiB**
    
-### Optional Task (individual) - Enumeration: 
+#### B. Optional Task (individual) - Enumeration: 
 
 **Problem 2.** 
    Implement the following methods in Enumerate.java:
