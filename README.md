@@ -1,8 +1,8 @@
 ## Short Project SP11: K Largest Elements and Enumeration 
 
 1. Implementation of O(n) Select Algorithm to find K largest elements and 
-   compare it's performance with an Algorithm to find K largest elements using 
-   Priority Queue. 
+   it's comparison with another Algorithm to find K largest elements using 
+   Priority Queue (Min-Heap). 
 2. Implementation of Enumeration algorithms - permutations(), combinations(), 
    heap(), and Knuth's Algorithm L.
 
@@ -42,9 +42,9 @@ NOTE:
 - For n = 256M and Min-Heap Algorithm, numTrials had to be reduced to 3. 
   Else rest of the files could run for numTrial = 10 or more.
 - Please see the results [sp11-script-results.txt](https://github.com/rahul1947/SP11-Select-Algorithm-for-K-Largest-Elements/blob/master/sp11-script-results.txt) for n = 1M - 256M comparing two algorithms:
-  1. K Largest using **Select Algorithm with RT: O(n) amortized**
-  2. K Largest using **Min-Heap with RT: O(n Log k)**
-- Increasing numTrials, the result could be improvised but it would take more
+  1. K Largest using **Select Algorithm with RT = O(n) amortized**
+  2. K Largest using **Min-Heap with RT = O(n Log k)**
+- Increasing numTrials, the precision of the results could be improved but it would take more
   resources as Time and Memory. 
 - Existing Processor: **Intel® Core™ i5-8250U CPU @ 1.60GHz × 8**. 
   Memory: **7.5 GiB**
