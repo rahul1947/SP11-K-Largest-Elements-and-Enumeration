@@ -15,7 +15,7 @@
 _______________________________________________________________________________
 ### Problems:
 
-#### A. Team Task - Kth Largest Algorithms: 
+#### A. Team Task - K Largest Elements Algorithms: 
 
 **Problem 1.** 
    Implement the expected O(n) algorithm for the k largest elements (select) 
